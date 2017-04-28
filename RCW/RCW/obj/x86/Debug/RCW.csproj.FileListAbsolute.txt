@@ -1,0 +1,72 @@
+C:\Users\Ученик\Desktop\RCW\RCW\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ученик\Desktop\RCW\RCW\obj\x86\Debug\MainWindow.baml
+C:\Users\Ученик\Desktop\RCW\RCW\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ученик\Desktop\RCW\RCW\obj\x86\Debug\App.g.cs
+C:\Users\Ученик\Desktop\RCW\RCW\obj\x86\Debug\RCW_MarkupCompile.cache
+C:\Users\Ученик\Desktop\RCW\RCW\obj\x86\Debug\RCW.g.resources
+C:\Users\Ученик\Desktop\RCW\RCW\obj\x86\Debug\RCW.Properties.Resources.resources
+C:\Users\Ученик\Desktop\RCW\RCW\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ученик\Desktop\RCW\RCW\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ученик\Desktop\RCW\RCW\bin\Debug\RCW.exe
+C:\Users\Ученик\Desktop\RCW\RCW\bin\Debug\RCW.pdb
+C:\Users\Ученик\Desktop\RCW\RCW\obj\x86\Debug\RCW.exe
+C:\Users\Ученик\Desktop\RCW\RCW\obj\x86\Debug\RCW.pdb
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\obj\x86\Debug\RCW.exe
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\obj\x86\Debug\RCW.pdb
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\bin\Debug\RCW.exe
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\bin\Debug\RCW.pdb
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\obj\x86\Debug\MainWindow.baml
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\obj\x86\Debug\App.g.cs
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\obj\x86\Debug\RCW_MarkupCompile.cache
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\obj\x86\Debug\RCW.g.resources
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\obj\x86\Debug\RCW.Properties.Resources.resources
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\obj\x86\Debug\RCW.csproj.GenerateResource.Cache
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\RCW\obj\x86\Debug\RCW.exe
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\RCW\obj\x86\Debug\RCW.pdb
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\RCW\bin\Debug\RCW.exe
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\RCW\bin\Debug\RCW.pdb
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\RCW\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\RCW\obj\x86\Debug\MainWindow.baml
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\RCW\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\RCW\obj\x86\Debug\App.g.cs
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\RCW\obj\x86\Debug\RCW_MarkupCompile.cache
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\RCW\obj\x86\Debug\RCW.g.resources
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\RCW\obj\x86\Debug\RCW.Properties.Resources.resources
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\RCW\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\RCW\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\RCW\obj\x86\Debug\RCW.exe
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\RCW\obj\x86\Debug\RCW.pdb
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\RCW\bin\Debug\RCW.exe
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\RCW\bin\Debug\RCW.pdb
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\RCW\obj\x86\Debug\MainWindow.baml
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\RCW\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\RCW\obj\x86\Debug\App.g.cs
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\RCW\obj\x86\Debug\RCW_MarkupCompile.cache
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\RCW\obj\x86\Debug\RCW.g.resources
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\RCW\obj\x86\Debug\RCW.Properties.Resources.resources
+C:\Users\Maxim\Desktop\RCW\RCW\RCW\RCW\obj\x86\Debug\RCW.csproj.GenerateResource.Cache
+C:\Users\Maxim\Desktop\RCW\RCW\obj\x86\Debug\RCW.exe
+C:\Users\Maxim\Desktop\RCW\RCW\obj\x86\Debug\RCW.pdb
+C:\Users\Maxim\Desktop\RCW\RCW\bin\Debug\RCW.exe
+C:\Users\Maxim\Desktop\RCW\RCW\bin\Debug\RCW.pdb
+C:\Users\Maxim\Desktop\RCW\RCW\obj\x86\Debug\MainWindow.baml
+C:\Users\Maxim\Desktop\RCW\RCW\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Maxim\Desktop\RCW\RCW\obj\x86\Debug\App.g.cs
+C:\Users\Maxim\Desktop\RCW\RCW\obj\x86\Debug\RCW_MarkupCompile.cache
+C:\Users\Maxim\Desktop\RCW\RCW\obj\x86\Debug\RCW.g.resources
+C:\Users\Maxim\Desktop\RCW\RCW\obj\x86\Debug\RCW.Properties.Resources.resources
+C:\Users\Maxim\Desktop\RCW\RCW\obj\x86\Debug\RCW.csproj.GenerateResource.Cache
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\obj\x86\Debug\RCW.exe
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\obj\x86\Debug\RCW.pdb
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\bin\Debug\RCW.exe
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\bin\Debug\RCW.pdb
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\obj\x86\Debug\MainWindow.baml
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\obj\x86\Debug\App.g.cs
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\obj\x86\Debug\RCW_MarkupCompile.cache
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\obj\x86\Debug\RCW.g.resources
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\obj\x86\Debug\RCW.Properties.Resources.resources
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Боцуляк Максим\Desktop\RCW\RCW\obj\x86\Debug\GenerateResource.write.1.tlog
